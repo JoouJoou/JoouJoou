@@ -1,5 +1,5 @@
 <h1 align="center">
-  < Hello There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> />
+  < Hello There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"> />
 </h1>
 
 ### I'm Rogério Alves student of information systems at UFRPE, passionate about software development and the infinite possibilities offered by the world of programming. Currently working as a full stack developer at Seed a Bit technology, focusing on react, html, css and js. And always trying to be better.
