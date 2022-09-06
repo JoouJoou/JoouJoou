@@ -2,7 +2,7 @@
   < Hello There/>
 </h1>
 
-### I'm Rogério Alves student of information systems at UFRPE, passionate about software development and the infinite possibilities offered by the world of programming. Currently working as a full stack developer at Seed a Bit technology, focusing on react, html, css and js. And always trying to be better.
+### I'm Rogério Alves student of information systems at UFRPE, passionate about software development and the infinite possibilities offered by the world of programming. Focusing on react, html, css and js. And always trying to be better.
 
 <img src="https://badges.pufler.dev/visits/JoouJoou/JoouJoou?logo=google-analytics&labelColor=0D0D0F" />
 <br />
