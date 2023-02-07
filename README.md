@@ -4,7 +4,7 @@
 
 ### Meu nome é Rogério Alves, estudante de sistemas da informação na UFRPE e desenvolvedor web full-stack formado na Driven Education, no momento aprimorando meus conhecimentos em desenvolvimento web e os testando em um projeto pessoal chamado DMGuide que você pode checar em meus repósitorios.
 
-<img src="https://badges.pufler.dev/visits/JoouJoou/JoouJoou?logo=google-analytics&labelColor=0D0D0F" />
+<img src="https://camo.githubusercontent.com/885a6b2985809ff1b4fe0a4a2d03ab9953c4e72e0546283140ade744ce1a0e54/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37332f62642f31342f37336264313434323663613862303335636139393464303131306131663863632e676966" />
 <br />
 
 Essas são minhas redes sociais
