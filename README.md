@@ -53,7 +53,7 @@ Essas são minhas redes sociais
 ### :man_technologist: Sistemas operacionais que eu uso:
 
 <div><br />
-  <img align="left" alt="MacOS Logo" width="107px" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
-  <img align="left" alt="Windows Logo" width="120px" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img align="left" alt="MacOS Logo" width="107px" src="https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4175-8d60-1ce1fa078ca2.png" />
+  <img align="left" alt="Windows Logo" width="120px" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" />
   <img align="left" alt="Ubuntu Logo" width="107px" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" />
 </div>
